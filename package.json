@@ -1,6 +1,6 @@
 {
-  "name": "gitbook-plugin-theme-default",
-  "description": "Default theme for GitBook > 3.0.0",
+  "name": "gitbook-plugin-theme-galactica",
+  "description": "Default theme for galactica book > 3.0.0",
   "main": "./index.js",
   "version": "1.0.0-pre.8",
   "engines": {
@@ -24,17 +24,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GitbookIO/theme-default.git"
+    "url": "https://github.com/frgaudet/theme-galactica.git"
   },
-  "author": "FriendCode Inc. <contact@gitbook.com>",
+  "author": "F-Gaudet <gaudet@isima.fr>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/GitbookIO/theme-default/issues"
+    "url": "https://github.com/frgaudet/theme-galactica/issues"
   },
   "contributors": [
     {
       "name": "Samy Pessé",
       "email": "samy@gitbook.com"
+    },
+    {
+      "name": "Frédéric Gaudet",
+      "email": "gaudet@isima.fr"
     }
   ],
   "gitbook": {
